@@ -12,7 +12,34 @@ There are two versions of front sight, 1 and 2. 1 only allows you to put the sig
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
+## Misc.
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905), Reddit (u/SillyTheGamer), or by Thingiverse comments. We will also need to talk to Taffy.**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## Images
+
+<img src="GHimages/Foamdemic%20Double%20Skewer%201.jpg" width="500">
+<img src="GHimages/Foamdemic%20Double%20Skewer%202.jpg" width="500">
+<img src="GHimages/DoubleSkewerPic1.png" width="500">
+<img src="GHimages/DoubleSkewerPic2.png" width="500">
+<img src="GHimages/DoubleSkewerPic3.png" width="500">
+<img src="GHimages/DoubleSkewerPic4.png" width="500">
+<img src="GHimages/DoubleSkewerPic5.png" width="500">
+<img src="GHimages/DoubleSkewerPic6.png" width="500">
+<img src="GHimages/DoubleSkewerPic7.png" width="500">
+<img src="GHimages/DoubleSkewerPic8.png" width="500">
+<img src="GHimages/DoubleSkewerPic9.png" width="500">
+<img src="GHimages/DoubleSkewerPic10.png" width="500">
+<img src="GHimages/DoubleSkewerPic11.png" width="500">
+<img src="GHimages/DoubleSkewerPic12.png" width="500">
+<img src="GHimages/DoubleSkewerPic13.png" width="500">
+<img src="GHimages/DoubleSkewerPic14.png" width="500">
+<img src="GHimages/DoubleSkewerPic15.png" width="500">
+<img src="GHimages/DoubleSkewerPic16.png" width="500">
+<img src="GHimages/DoubleSkewerPic17.png" width="500">
+<img src="GHimages/DoubleSkewerPic18.png" width="500">
+<img src="GHimages/DoubleSkewerPic19.png" width="500">
+<img src="GHimages/DoubleSkewerPic20.png" width="500">
+<img src="GHimages/DoubleSkewerPic21.png" width="500">
