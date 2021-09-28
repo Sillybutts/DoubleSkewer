@@ -41,5 +41,3 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 <img src="GHimages/DoubleSkewerPic17.png" width="500">
 <img src="GHimages/DoubleSkewerPic18.png" width="500">
 <img src="GHimages/DoubleSkewerPic19.png" width="500">
-<img src="GHimages/DoubleSkewerPic20.png" width="500">
-<img src="GHimages/DoubleSkewerPic21.png" width="500">
