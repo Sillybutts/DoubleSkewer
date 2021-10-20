@@ -18,6 +18,8 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+- **If you want to support what I do, go buy stuff at my RedBubble! https://www.redbubble.com/people/Sillybutts/shop**
+
 ## Images
 
 <img src="GHimages/Foamdemic%20Double%20Skewer%201.jpg" width="500">
