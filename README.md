@@ -14,8 +14,6 @@ There are two versions of front sight, 1 and 2. 1 only allows you to put the sig
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
-### IF YOU ARE HAVING TROUBLE DOWNLOADING STEP FILES FROM GITHUB
-<img src="GHimages/GitHubSTEPfiledownloadtutorial.png" width="700">
 
 ## Misc.
 
