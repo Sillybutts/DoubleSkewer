@@ -6,7 +6,9 @@ Changelog: 10-23-21 5:52PM EST: Updated SKGRIPBACK and SKGRIPFRONT1, there are n
 
 This is the 'Twoer', a doubled up Skewer. Inspired by the Second Degree Burn double Caliburn, this is two Skewers in one shell, side by side.
 
-**You need two Skewer hardware kits to make one Twoer**
+**You need (mostly) two Skewer hardware kits to make one Twoer**
+
+Full hardware list/BOM can be found here (with McMaster links and Skewer hardware listing links): https://docs.google.com/spreadsheets/d/12v1Zdi6XNzd1hpzYiZRAMS4_sU1oYRVzrmFKpehZb6Y/
 
 The triggers are separate for easily firing one side at a time. The priming handles are available separated or combined. There is also files included to add picatinny rail to the front sight and right above the magazines. 
 
