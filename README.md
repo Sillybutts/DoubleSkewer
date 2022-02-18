@@ -3,7 +3,7 @@ The Twoer, a doubled up side-by-side Skewer variant.
 
 Changelog: 10-23-21 5:52PM EST: Updated SKGRIPBACK and SKGRIPFRONT1, there are now two separate holes for the sear elastics.
 
-
+## Description
 
 This is the 'Twoer', a doubled up Skewer. Inspired by the Second Degree Burn double Caliburn, this is two Skewers in one shell, side by side.
 
