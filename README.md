@@ -5,19 +5,6 @@ Changelog: 10-23-21 5:52PM EST: Updated SKGRIPBACK and SKGRIPFRONT1, there are n
 
 
 
-## If you like what I do, please consider supporting me!
-
-**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
-
-<a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
-
-<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts 
-
-<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts 
-
-
-## Description
-
 This is the 'Twoer', a doubled up Skewer. Inspired by the Second Degree Burn double Caliburn, this is two Skewers in one shell, side by side.
 
 **You need (mostly) two Skewer hardware kits to make one Twoer**
@@ -40,6 +27,15 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+<a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop RedBubble full of fun Nerf-y sticker and merch designs!  
+
+<a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts 
+
+<a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts 
 
 
 ## Images
