@@ -5,7 +5,7 @@ Changelog: 10-23-21 5:52PM EST: Updated SKGRIPBACK and SKGRIPFRONT1, there are n
 
 <a href="https://www.printables.com/model/875242-twoer-double-skewer-nerf-homemade"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
 
-## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/@Sillybutts
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875242-twoer-double-skewer-nerf-homemade
 
 ## Description
 
